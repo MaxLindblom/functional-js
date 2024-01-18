@@ -56,9 +56,14 @@ console.log('anything');
 - [Ramda](https://ramdajs.com/) - Specifically tailored for enabling a functional paradigm
 
 ### Built-in Array Methods
-- Map
-- Reduce
-- Filter
+
+>"All functional programming is just map, reduce, and filter" 
+
+-- Me, at some point. But I swear I heard it somewhere else first
+
+- [Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+- [Reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
+- [Filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 
 (And also)
 
